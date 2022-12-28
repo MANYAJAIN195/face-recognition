@@ -1,5 +1,3 @@
-dlib @ https://github.com/Murtaza-Saeed/dlib/raw/master/dlib-19.22.99-cp310-cp310-win_amd64.whl
-cmake==3.25.0
 face_recognition==1.3.0
 Flask==2.2.2
 numpy==1.23.2
