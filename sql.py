@@ -2,10 +2,10 @@ import pyodbc
 import pandas as pd
 import datetime
     
-server = 'attendance1.database.windows.net'
-database = 'attendance'
-username = 'manya'
-password = 'Link@adm1'
+server = ''
+database = ''
+username = ''
+password = ''
 driver= '{ODBC Driver 18 for SQL Server}'
 
 
